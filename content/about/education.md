@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Education
+title: Educação
 subtitle:
 
 # Date format for experience
@@ -22,26 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: Engenharia de Produção
+    company: Universidade Federal do Rio Grande do Norte
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    company_logo: ''
+    location: Natal/RN
+    date_start: '2018-01-01'
+    date_end: ''
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Gestão de custos
+        * Logística
+        * Álgebra e Cálculos
+        * Pesquisa Operacional
+        * Estatística
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: Técnico em Logística
+    company: Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    company_logo: 
+    location: São Gonçalo do Amarante/RN
+    date_start: '2014-01-01'
+    date_end: '2017-12-31'
+    description: Trabalho de conclusão com tema sobre lote econômico de compras (LEC)
 
 design:
   columns: '1'

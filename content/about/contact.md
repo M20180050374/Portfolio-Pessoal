@@ -1,6 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+active: false
 widget: contact
 
 # This file represents a page section.
